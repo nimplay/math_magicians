@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 * {
   padding: 0;
   margin: 0;
@@ -10,7 +12,7 @@ body {
   background-color: antiquewhite;
   display: grid;
   place-content: center;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2rem;
   height: 100vh;
 }
@@ -19,7 +21,7 @@ body {
   height: 80vh;
   width: 50vh;
   background-color: black;
-  padding: 1px;
+  padding: 2px;
 }
 
 .wrapper {
