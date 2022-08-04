@@ -1,6 +1,6 @@
 # Math Magicians
 > This project is the Microverse's math_magicians project. 
-> Its a web application for use react that is a imple calculator. 
+> Its a web application for use react that is a simple calculator. 
 
 
 ## Built With
