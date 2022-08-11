@@ -2,6 +2,9 @@
 > This project is the Microverse's math_magicians project. 
 > Its a web application for use react that is a simple calculator. 
 
+## deploy
+
+To get the deploy version click [here](spiffy-unicorn-297994.netlify.app)
 
 ## Built With
 - Languages: HTML, scss and JavaScript
