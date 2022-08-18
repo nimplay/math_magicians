@@ -4,7 +4,7 @@
 
 ## deploy
 
-To get the deploy version click spiffy-unicorn-297994.netlify.app
+To get the deploy version click (spiffy-unicorn-297994.netlify.app)
 
 ## Built With
 - Languages: HTML, scss and JavaScript
